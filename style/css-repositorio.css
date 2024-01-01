@@ -31,6 +31,7 @@ body {
 
 h1 {
     color: white;
+    font-size: bold;
 }
 
 header {
@@ -49,6 +50,12 @@ main {
     background-color: white;
     margin: auto;
     padding-bottom: 80%;
+}
+
+main h2 {
+    background-image: linear-gradient(to right, var(--cor1), transparent);
+    color: #FACFCE;
+    padding: 5px 0px 5px 10px;
 }
 
 main p {
