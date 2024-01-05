@@ -37,7 +37,7 @@ h1 {
 header {
     background-image: linear-gradient(to bottom, var(--cor4), var(--cor1));
     color: (white);
-    font-size: 3em.;
+    font-size: 3em;
     font-family: var(--font-bebas);
     font-weight: bold;
     padding: 30px;
